@@ -1,7 +1,11 @@
 # Telegram Multi Accounts
+ 
 
-This program forward message from many your minor Telegram accounts to the one main your Telegram. 
-Also you can respond on message in main account and minor account has send message to client like like own 
+This program **forwards messages** from your multiple **minor Telegram** accounts 
+**to your main Telegram** account.<br/>
+You can also **respond to messages** from your main account, 
+and the minor account will send the reply to the client as if **it’s coming 
+from the minor account itself**.
 
 ## Telegram Api key
 To get api key you need visit https://my.telegram.org/ <br>
